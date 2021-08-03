@@ -1,5 +1,8 @@
 # Translator Backend
-In the project directory, you can run:
+
+First of all, you can run
+
+### `npm install`
 
 ## Available Scripts
 
