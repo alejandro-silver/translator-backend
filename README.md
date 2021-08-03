@@ -1,4 +1,4 @@
-# translator-backend
+# Translator Backend
 In the project directory, you can run:
 
 ## Available Scripts
